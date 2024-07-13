@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pymysql
+cryptography
+pytz
+celery
+openai 
+langchain
